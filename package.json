@@ -1,0 +1,22 @@
+{
+  "name": "hubot-uptime",
+  "version": "1.0.1",
+  "description": "Reports how long hubot has been up.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonfairbanks/hubot-uptime.git"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "Jon Fairbanks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonfairbanks/hubot-uptime/issues"
+  },
+  "homepage": "https://github.com/jonfairbanks/hubot-uptime#readme"
+}
